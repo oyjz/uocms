@@ -16,7 +16,7 @@
       "src/functions.php"
     ],
     "psr-4": {
-      "uocms": "src"
+      "uocms\\": "src"
     }
   },
   "homepage": "https://www.oyjz.cn/",
