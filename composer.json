@@ -1,0 +1,24 @@
+{
+  "name": "oyjz/uocms",
+  "description": "union one cms by php, just for selfuse.",
+  "authors": [
+    {
+      "name": "Jin",
+      "email": "hi@oyjz.cn"
+    }
+  ],
+  "require": {
+    "php": ">=7.3",
+    "illuminate/database": "~6.16"
+  },
+  "autoload": {
+    "files": [
+      "src/functions.php"
+    ],
+    "psr-4": {
+      "uocms": "src"
+    }
+  },
+  "homepage": "https://www.oyjz.cn/",
+  "license": "Apache-2.0"
+}
