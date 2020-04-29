@@ -9,6 +9,7 @@
   ],
   "require": {
     "php": ">=7.3",
+    "oyjz/helper": "dev-master",
     "illuminate/database": "~6.16"
   },
   "autoload": {
