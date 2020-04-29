@@ -7,6 +7,7 @@
       "email": "hi@oyjz.cn"
     }
   ],
+  "minimum-stability": "dev",
   "require": {
     "php": ">=7.3",
     "oyjz/helper": "dev-master",
@@ -20,7 +21,6 @@
       "uocms\\": "src"
     }
   },
-  "minimum-stability": "dev",
   "homepage": "https://www.oyjz.cn/",
   "license": "Apache-2.0"
 }
