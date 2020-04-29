@@ -19,6 +19,7 @@
       "uocms\\": "src"
     }
   },
+  "minimum-stability": "dev",
   "homepage": "https://www.oyjz.cn/",
   "license": "Apache-2.0"
 }
