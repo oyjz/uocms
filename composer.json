@@ -11,7 +11,8 @@
   "require": {
     "php": ">=7.3",
     "oyjz/helper": "dev-master",
-    "illuminate/database": "~7.0"
+    "illuminate/database": "~7.0",
+    "illuminate/pagination": "~7.0"
   },
   "autoload": {
     "files": [
